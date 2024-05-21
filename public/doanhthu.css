@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  main {
+    margin: 0 auto;
+    width: 800px;
+  }
+  
+  section {
+    padding: 10px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
+  
+  th {
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+  }
+  footer{
+    float:inline-end
+  }
